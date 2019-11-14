@@ -1,0 +1,11 @@
+.trans.c.swo
+.trans.c.swp
+.csim_results
+.marker
+csim
+jaejin-handin.tar
+test-trans
+trace.f0
+trace.f1
+tracegen
+trans.o
